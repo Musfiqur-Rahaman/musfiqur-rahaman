@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Musfiqur Rahaman 👋
 
-<!--
-**Musfiqur-Rahaman/musfiqur-rahaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Computer Science & Engineering student at AIUB. I am currently majoring in **Data Science, Data Mining, and Advanced Database Management System (ADBMS)**, with a minor in **Machine Learning (ML)** and **Computer Vision & Pattern Recognition (CVPR)**.
 
-Here are some ideas to get you started:
+### 🤖 Academic Major & Focus
+- **Data Science & Data Mining** (Predictive analytics, pattern extraction, big data workflows)
+- **Advanced Database Management** (Complex queries, database architecture, query optimization)
+- **Machine Learning & CVPR** (Neural networks, image classification, object detection)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack & Tools
+- **Languages:** Python, SQL, C++, Java
+- **Libraries/Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, OpenCV
+- **Tools:** Git, GitHub, MySQL / PostgreSQL, VS Code, Jupyter Notebook
+
+### 📊 GitHub Stats
+![Musfiqur's GitHub stats](https://vercel.app)
+![Top Langs](https://vercel.app)
